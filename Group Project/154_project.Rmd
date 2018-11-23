@@ -1,6 +1,6 @@
 ---
 title: "154_project"
-author: "Jason Wang"
+author: "Jason Wang, Liam Toebes, Senjie Wang"
 date: "November 23, 2018"
 output: pdf_document
 ---
